@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);//bb
 		setContentView(R.layout.activity_main);//nnnnnn
 		//12345678
+		//abcd
 	}
 
 	@Override
