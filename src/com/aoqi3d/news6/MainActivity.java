@@ -1,5 +1,6 @@
 package com.aoqi3d.news6;
 
+import android.R.integer;
 import android.app.Activity;
 import android.os.Bundle;
 import android.view.Menu;
@@ -11,6 +12,8 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+		int i = 0;
+		i++;
 	}
 
 	@Override
