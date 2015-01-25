@@ -12,6 +12,7 @@ public class MainActivity extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);//bb
 		setContentView(R.layout.activity_main);//nnnnnn
+		//12345678
 	}
 
 	@Override
